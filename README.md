@@ -1,6 +1,6 @@
 ### Hi, Developers👋
 
-<<div id="header" align="center"> 
+<div id="header" align="center"> 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
     <h1 align="center">Hi 🙋‍♂️, I'm César</h1>
     <h3 align="center">I am passionate about web, desktop programming, soon I try to learn programming for mobile apps</h3>
@@ -50,9 +50,11 @@
 
 ---
 
-### Information:
+### Information of most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCesc07&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
