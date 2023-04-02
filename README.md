@@ -27,7 +27,7 @@
 
 - 💻 I'm currently learning: **JavaScript, React, C# ASP.NET, C# Net Core, C# Xamarin Forms**
 
-- 🌐 Website portfolio: [CescDev] (https://portafolio-cescdev.netlify.app/)
+- 🌐 Website portfolio: [CescDev](https://portafolio-cescdev.netlify.app/)
 
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
