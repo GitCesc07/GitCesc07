@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
     <a href="https://twitter.com/CescFabregas041?t=S8De1vlzbnkCD4bgHTL_oQ&s=09">
-        <img src="![Twitter Follow](https://img.shields.io/twitter/follow/C%C3%A9sar%20Urroz?color=red&logo=twitter&style=social)" alt="Twitter"/>
+        <img src="![Twitter Follow](https://img.shields.io/twitter/follow/C%C3%A9sar%20Urroz?color=blue&logo=twitter&style=for-the-badge)" alt="Twitter"/>
     </a>
 </div>
 
