@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, Developers👋
 
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
     <h1 align="center">Hi 🙋‍♂️, I'm César</h1>
-    <h3 align="center">I am passionate about web, desktop, and database programming and soon I am trying to learn mobile app programming.</h3>
+    <h3 align="center">I am passionate about web, desktop programming, soon I try to learn programming for mobile apps</h3>
 </div>
 
 <div id="badges" align="center">
@@ -17,6 +17,17 @@
         <img src="https://img.shields.io/badge/César Urroz-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
 </div>
+
+---
+### 👨‍💻 About me:
+
+- 📧 Contact me at: **cesar04071997@gmail.com**
+
+- ❓ Ask me about: **C# .NET, C, HTML5, CSS, Sql Server, Mysql Server, Visual Basic, Git-Github**
+
+- 💻 I'm currently learning: **JavaScript, React, C# ASP.NET, C# Net Core, C# Xamarin Forms**
+
+- 🌐 Website portfolio: [CescDev] (https://portafolio-cescdev.netlify.app/)
 
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
