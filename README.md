@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+</div>
+
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
