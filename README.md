@@ -14,7 +14,7 @@
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
     </a>
     <a href="https://www.instagram.com/cesc_urroz07/">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Facebook-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram" />
     </a>
 </div>
 
