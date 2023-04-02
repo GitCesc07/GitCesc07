@@ -33,6 +33,8 @@
 <div align="left">
     <h3>Languages and Tools:</h3>
     <div>
+        <img src="[url=https://cdnlogo.com/logo/c_760.html][img]https://cdn.cdnlogo.com/logos/c/27/c.svg[/img][/url]" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Sql Serer" alt="Sql Server" width="40" height="40"/>&nbsp;
