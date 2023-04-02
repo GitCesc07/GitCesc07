@@ -3,7 +3,7 @@
 <div id="header" align="center"> 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
 <h1 align="center">Hi 🙋‍♂️, I'm César</h1>
-<h3 align="center">I am passionate about web programming, desktop, soon I try to learn app, for mobile</h3>
+<h3 align="center">I am passionate about web, desktop programming, soon I try to learn programming for mobile apps</h3>
 </div>
 
 <!--
