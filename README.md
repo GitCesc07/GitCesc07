@@ -27,7 +27,18 @@
 
 - 💻 I'm currently learning: **JavaScript, React, C# ASP.NET, C# Net Core, C# Xamarin Forms**
 
-- 🌐 Website portfolio: [Portafolio-CescDev](https://portafolio-cescdev.netlify.app/)
+- 🌐 Website portfolio: [CescDev](https://portafolio-cescdev.netlify.app/)
+
+---
+<div align="left">
+    <h3>Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Sql Serer" alt="Sql Server" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Mysql Serer" alt="Mysql Server" width="40" height="40"/>&nbsp;
+    </div>
+</div>
 
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
