@@ -52,7 +52,7 @@
 
 ### Information of most used languages:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitCesc07&repo=github-readme-stats)](https://github.com/GitCesc07/github-readme-stats&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
