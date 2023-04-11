@@ -52,9 +52,9 @@
 
 ### Information of most used languages:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitCesc07&repo=github-readme-stats)](https://github.com/GitCesc07/github-readme-stats&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitCesc07&repo=github-readme-stats)](https://github.com/GitCesc07/github-readme-stats&theme=panda)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
