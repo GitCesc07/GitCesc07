@@ -52,7 +52,7 @@
 
 ### Information of most used languages:
 
-[![Mohammad Saifur Rahman's GitHub Card](https://github-readme-stats.vercel.app/api/top-langs?username=GitCesc07&%20html,scss,stylus,blade,jupyternotebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
+[![Mohammad Saifur Rahman's GitHub Card](https://github-readme-stats.vercel.app/api/top-langs?username=GitCesc07&%20html,scss,stylus,blade,jupyternotebook,c#,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
