@@ -58,6 +58,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCesc07&hide=javascript,css,scss,html&theme=tokyonight)
 
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=GitCesc07&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
+
 <!--
 **GitCesc07/GitCesc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
