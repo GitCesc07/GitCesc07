@@ -54,9 +54,7 @@
 
 [![Mohammad Saifur Rahman's GitHub Card](https://github-readme-stats.vercel.app/api/top-langs?username=GitCesc07&%20html,scss,stylus,blade,jupyternotebook,c#,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCesc07&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=GitCesc07&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=GitCesc07&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/GitCesc07)
 
