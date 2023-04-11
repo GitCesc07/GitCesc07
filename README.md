@@ -54,7 +54,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitCesc07&repo=github-readme-stats)](https://github.com/GitCesc07/github-readme-stats&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
